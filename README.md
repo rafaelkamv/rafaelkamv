@@ -1,2 +1,2 @@
-![Discord](https://discord.c99.nl/widget/theme-3/761213268009943051.png)
+![Discord](https://discord.c99.nl/widget/theme-3/933174297223110709.png)
 <details>
