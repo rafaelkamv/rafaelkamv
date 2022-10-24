@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelkamv&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelkamv" /> </p>
 
-<h3 align="center">Hey yes i am a coder and i code things, you can call me rafaelkamv. Im active on Discord so if you want to contact me and recive a Response almost instantly so that's the way to go</h3>
+<h3 align="center">Hey yes i am a coder and i code things, you can call me rafaelkamv. Im active on Discord so if you want to contact me and recive a fast response that's the way to go</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/239970300853354498.png)
 
